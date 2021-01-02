@@ -4,7 +4,7 @@
   tasks:
           - name: Install Webserver
             package: 
-                name: "{{ software_name }}"
+                name: "{{ package_name }}"
                 state: present
 
           - name : Copy file

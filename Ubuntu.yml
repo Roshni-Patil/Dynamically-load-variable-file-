@@ -1,2 +1,2 @@
-software_name: apache2
+package_name: apache2
 service: apache2

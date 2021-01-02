@@ -1,2 +1,2 @@
-software_name: httpd
+package_name: httpd
 service: httpd
